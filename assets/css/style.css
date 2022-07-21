@@ -271,8 +271,8 @@ h6 {
 }
 @media (max-width: 768px) {
   #hero {
-    background-position: center;
-    background-size: 800px 900px;
+    background-position: top;
+    background-size: 800px 1200px;
     background-repeat: no-repeat;
   }
   #hero h1 {
